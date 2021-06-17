@@ -1,0 +1,523 @@
+[
+{
+  "id": 16,
+  "name": "Nike Court Legacy Canvas",
+  "price": 556.00,
+  "salePrice": 278.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/10.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/22.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+  "stock": 10,
+  "new": false,
+  "sale": true,
+  "category": "women",
+  "colors": ["pink", "yellow", "gray"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 4,
+  "variants": [
+  {
+    "color": "pink",
+    "images": "/assets/images/fashion/product/3.jpg"
+  },
+  {
+    "color": "yellow",
+    "images": "/assets/images/fashion/product/10.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "/assets/images/fashion/product/24.jpg"
+  }]
+},
+{
+  "id": 20,
+  "name": "Nike Blazer Low 77 Vintage",
+  "price": 800.00,
+  "salePrice": 400.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/25.jpg", "/assets/images/fashion/product/20.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/24.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+  "stock": 10,
+  "new": false,
+  "sale": false,
+  "category": "women",
+  "colors": ["red", "gray", "pink"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 4,
+  "variants": [
+  {
+    "color": "red",
+    "images": "/assets/images/fashion/product/25.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "/assets/images/fashion/product/24.jpg"
+  },
+  {
+    "color": "pink",
+    "images": "/assets/images/fashion/product/24.jpg"
+  }]
+},
+{
+  "id": 21,
+  "name": "Nike Air Zoom-Type Premium",
+  "price": 1050.00,
+  "salePrice": 2000.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/7.jpg", "/assets/images/fashion/product/6.jpg", "/assets/images/fashion/product/8.jpg", "/assets/images/fashion/product/20.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+  "stock": 10,
+  "new": true,
+  "sale": false,
+  "category": "women",
+  "colors": ["orange", "black", "red"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 5,
+  "variants": [
+  {
+    "color": "orange",
+    "images": "/assets/images/fashion/product/7.jpg"
+  },
+  {
+    "color": "black",
+    "images": "/assets/images/fashion/product/6.jpg"
+  },
+  {
+    "color": "red",
+    "images": "/assets/images/fashion/product/20.jpg"
+  }]
+},
+{
+  "id": 22,
+  "name": "Nike Air Max 95 NRG",
+  "price": 250.00,
+  "salePrice": 500.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/23.jpg", "/assets/images/fashion/product/19.jpg", "/assets/images/fashion/product/12.jpg", "/assets/images/fashion/product/17.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+  "stock": 10,
+  "new": true,
+  "sale": true,
+  "category": "women",
+  "colors": ["white", "gray", "black"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 4,
+  "variants": [
+  {
+    "color": "white",
+    "images": "/assets/images/fashion/product/13.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "/assets/images/fashion/product/20.jpg"
+  },
+  {
+    "color": "black",
+    "images": "/assets/images/fashion/product/12.jpg"
+  }]
+},
+{
+  "id": 23,
+  "name": "Nike Air Huarache",
+  "price": 130.00,
+  "salePrice": 260.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/16.jpg", "/assets/images/fashion/product/17.jpg", "/assets/images/fashion/product/24.jpg", "/assets/images/fashion/product/23.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+  "stock": 10,
+  "new": false,
+  "sale": true,
+  "category": "women",
+  "colors": ["orange", "green", "gray"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 5,
+  "variants": [
+  {
+    "color": "orange",
+    "images": "/assets/images/fashion/product/16.jpg"
+  },
+  {
+    "color": "green",
+    "images": "/assets/images/fashion/product/16.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "/assets/images/fashion/product/24.jpg"
+  }]
+},
+{
+  "id": 24,
+  "name": "Nike Air Vapor Max 2021",
+  "price": 150.00,
+  "salePrice": 300.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/16.jpg", "/assets/images/fashion/product/20.jpg", "/assets/images/fashion/product/22.jpg", "/assets/images/fashion/product/24.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+"stock": 10,
+  "new": true,
+  "sale": true,
+  "category": "women",
+  "colors": ["white", "gray"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 4,
+  "variants": [
+  {
+    "color": "white",
+    "images": "/assets/images/fashion/product/16.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "/assets/images/fashion/product/12.jpg"
+  }]
+},
+{
+  "id": 25,
+  "name": "Nike Air Max",
+  "price": 210.00,
+  "salePrice": 420.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/17.jpg", "/assets/images/fashion/product/11.jpg", "/assets/images/fashion/product/15.jpg", "/assets/images/fashion/product/52.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+"stock": 10,
+  "new": false,
+  "sale": false,
+  "category": "women",
+  "colors": ["green", "gray", "black"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 5,
+  "variants": [
+  {
+    "color": "green",
+    "images": "/assets/images/fashion/product/17.jpg"
+  },
+  {
+    "color": "gray",
+    "images": "/assets/images/fashion/product/5.jpg"
+  },
+  {
+    "color": "black",
+    "images": "/assets/images/fashion/product/6.jpg"
+  }]
+},
+{
+  "id": 26,
+  "name": "Nike Victori One",
+  "price": 420.00,
+  "salePrice": 840.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/3.jpg", "/assets/images/fashion/product/16.jpg", "/assets/images/fashion/product/21.jpg", "/assets/images/fashion/product/22.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+"stock": 10,
+  "new": false,
+  "sale": true,
+  "category": "women",
+  "colors": ["pink", "green", "yellow"],
+  "size": ["M", "L", "XL"],
+  "tags": ["nike"],
+  "rating": 4,
+  "variants": [
+  {
+    "color": "pink",
+    "images": "/assets/images/fashion/product/3.jpg"
+  },
+  {
+    "color": "green",
+    "images": "/assets/images/fashion/product/6.jpg"
+  },
+  {
+    "color": "yellow",
+    "images": "/assets/images/fashion/product/2.jpg"
+  }]
+},
+{
+  "id": 27,
+  "name": "Nike Court Legacy Canvas",
+  "price": 360.00,
+  "salePrice": 720.00,
+  "discount": 50,
+  "pictures": ["/assets/images/fashion/product/23.jpg", "/assets/images/fashion/product/22.jpg", "/assets/images/fashion/product/20.jpg", "/assets/images/fashion/product/22.jpg"],
+  "shortDetails": "Men Shoes",
+  "description": "Men Shoes",
+"stock": 10,
+  "new": true,
+  "sale": true,
+  "category": "women",
+  "colors": ["orange", "black", "white"],
+  "size": ["M", "L", "XL"],
+  "tags": [ "nike"],
+  "rating": 4,
+  "variants": [
+  {
+    "color": "orange",
+    "images": "/assets/images/fashion/product/3.jpg"
+  },
+  {
+    "color": "black",
+    "images": "/assets/images/fashion/product/2.jpg"
+  },
+  {
+    "color": "white",
+    "images": "/assets/images/fashion/product/8.jpg"
+  }]
+},
+  {
+    "id": 53,
+    "name": "Nike Air Max 90LX",
+    "price": 300.00,
+    "salePrice": 600.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/3.jpg", "/assets/images/watch/7.jpg", "/assets/images/watch/1.jpg", "/assets/images/watch/9.jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 5,
+    "new": false,
+    "sale": true,
+    "category": "watch",
+    "colors": ["black"],
+    "tags": ["nike"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/watch/3.jpg"
+      }]
+  },
+  {
+    "id": 54,
+    "name": "Nike Air Force",
+    "price": 700.00,
+    "salePrice": 1400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/1.jpg", "/assets/images/watch/11.jpg", "/assets/images/watch/12.jpg", "/assets/images/watch/10.jpg"],
+    "shortDetails": "Women shoes",
+    "description": "Women shoes",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "watch",
+    "colors": ["white","black"],
+    "tags": ["nike", "unisex"],
+    "variants": [
+      {
+        "color": "white",
+        "images": "/assets/images/watch/1.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/watch/11.jpg"
+      }]
+  },
+  {
+    "id": 55,
+    "name": "Nike Blazer Low 77",
+    "price": 100.00,
+    "salePrice": 200.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/5.jpg", "/assets/images/watch/11.jpg", "/assets/images/watch/10.jpg", "/assets/images/watch/9.jpg"],
+    "shortDetails": "Women shoes",
+    "description": "Women shoes",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "watch",
+    "colors": ["blue","black"],
+    "tags": ["nike","unisex"],
+    "variants": [
+      {
+        "color": "blue",
+        "images": "/assets/images/watch/5.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/watch/11.jpg"
+      }]
+  },
+  {
+    "id": 56,
+    "name": "Nike Court Vision Alta",
+    "price": 200.00,
+    "salePrice": 400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/7.jpg", "/assets/images/watch/11.jpg", "/assets/images/watch/10.jpg", "/assets/images/watch/1.jpg"],
+    "shortDetails": "Women shoes",
+    "description": "Women shoes",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "watch",
+    "colors": ["brown","black"],
+    "tags": ["nike"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/watch/7.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/watch/11.jpg"
+      }]
+  },
+  {
+    "id": 57,
+    "name": "Nike Victori One",
+    "price": 200.00,
+    "salePrice": 400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/12.jpg", "/assets/images/watch/1.jpg", "/assets/images/watch/10.jpg", "/assets/images/watch/11jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "watch",
+    "colors": ["brown","white"],
+    "tags": ["titan"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/watch/12.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/watch/1.jpg"
+      }]
+  },
+  {
+    "id": 58,
+    "name": "Nike Offcourt Duo",
+    "price": 200.00,
+    "salePrice": 400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/11.jpg", "/assets/images/watch/1.jpg", "/assets/images/watch/10.jpg", "/assets/images/watch/12jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "watch",
+    "colors": ["black","gray"],
+    "tags": ["nike","titan"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/watch/11.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/watch/1.jpg"
+      }]
+  },
+  {
+    "id": 59,
+    "name": "Nike Air Max",
+    "price": 200.00,
+    "salePrice": 400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/10.jpg", "/assets/images/watch/1.jpg", "/assets/images/watch/3.jpg", "/assets/images/watch/12jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 6,
+    "new": false,
+    "sale": true,
+    "category": "watch",
+    "colors": ["blue","white","gray"],
+    "tags": ["titan"],
+    "variants": [
+      {
+        "color": "blue",
+        "images": "/assets/images/watch/10.jpg"
+      },
+      {
+        "color": "white",
+        "images": "/assets/images/watch/1.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/watch/3.jpg"
+      }]
+  },
+  {
+    "id": 60,
+    "name": "Nike Air Force 1 07 Craft",
+    "price": 200.00,
+    "salePrice": 400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/9.jpg", "/assets/images/watch/3.jpg", "/assets/images/watch/1.jpg", "/assets/images/watch/12jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "watch",
+    "colors": ["brown","gray"],
+    "tags": ["nike", "unisex"],
+    "variants": [
+      {
+        "color": "brown",
+        "images": "/assets/images/watch/9.jpg"
+      },
+      {
+        "color": "gray",
+        "images": "/assets/images/watch/3.jpg"
+      }]
+  },
+  {
+    "id": 61,
+    "name": "Nike Court Legacy Canvas",
+    "price": 300.00,
+    "salePrice": 600.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/3.jpg", "/assets/images/watch/7.jpg", "/assets/images/watch/1.jpg", "/assets/images/watch/9.jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 5,
+    "new": false,
+    "sale": false,
+    "category": "watch",
+    "colors": ["black"],
+    "tags": ["titan"],
+    "variants": [
+      {
+        "color": "black",
+        "images": "/assets/images/watch/3.jpg"
+      }]
+  },
+  {
+    "id": 62,
+    "name": "Nike Blazer Low 77 Vintage",
+    "price": 700.00,
+    "salePrice": 1400.00,
+    "discount": 50,
+    "pictures": ["/assets/images/watch/1.jpg", "/assets/images/watch/11.jpg", "/assets/images/watch/12.jpg", "/assets/images/watch/10.jpg"],
+    "shortDetails": "Men shoes",
+    "description": "Men shoes",
+    "stock": 6,
+    "new": true,
+    "sale": false,
+    "category": "watch",
+    "colors": ["white","black"],
+    "tags": ["nike", "unisex"],
+    "variants": [
+      {
+        "color": "white",
+        "images": "/assets/images/watch/1.jpg"
+      },
+      {
+        "color": "black",
+        "images": "/assets/images/watch/11.jpg"
+      }]
+  }
+]
